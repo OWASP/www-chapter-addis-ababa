@@ -1,4 +1,4 @@
 ### Leaders
-* [Kiya Tolcha Batula](mailto:tokiyatolcha@gmail.com)
-* [Yohannes Beneberu Admasu](mailto:jhon.benex@gmail.com)
-* [Abnet Mekuria Tadesse](mailto:abnetmekuria07@gmail.com)
+* [Kiya Tolcha Batula](mailto:kiya.batula@owasp.org)
+* [Yohannes Beneberu Admasu](mailto:yohannes.admasu@owasp.org)
+* [Abnet Mekuria Tadesse](mailto:abnet.tadesse@owasp.org)
