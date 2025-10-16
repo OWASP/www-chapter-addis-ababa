@@ -1,0 +1,24 @@
+leaders:
+  - name: Kiya Tolcha Batula
+    email: kiya.batula@owasp.org
+  - name: Yohannes Beneberu Admasu
+    email: yohannes.admasu@owasp.org
+  - name: Abnet Mekuria Tadesse
+    email: abnet.tadesse@owasp.org
+location:
+  country: Ethiopia
+  country_code: ET
+  region: Ethiopia
+  city: Addis Ababa
+  latitude: 9.0358287
+  longitude: 38.7524127
+name: OWASP Addis Ababa
+repositories:
+  - name: www-chapter-addis-ababa
+    url: https://github.com/OWASP/www-chapter-addis-ababa
+    description: OWASP Foundation web repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-addis-ababa
